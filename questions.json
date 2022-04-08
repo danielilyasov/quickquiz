@@ -1,0 +1,43 @@
+[
+    {
+        "question":"How many months are there in half year? " ,
+        "choice1": " 6",
+        "choice2": " 4",
+        "choice3": " 9",
+        "choice4": " 1",
+        "answer": 1
+    },
+    {
+        "question":" how many finger we have on left hand?" ,
+        "choice1": " 3",
+        "choice2": " 2",
+        "choice3": " 5",
+        "choice4": " 8",
+        "answer": 3
+    },
+    {
+        "question":"what is the largest animal in the ocean? " ,
+        "choice1": " fish",
+        "choice2": " catsea",
+        "choice3": " dolphin",
+        "choice4": " whale",
+        "answer": 4
+    },
+    {
+        "question":"Which card game in poker is the strongest? " ,
+        "choice1": " straight flush",
+        "choice2": " full house",
+        "choice3": " four of a kind",
+        "choice4": " royal straight flush",
+        "answer": 4
+    },
+    {
+        "question":"who was the god of lighting in the greek mythology?" ,
+        "choice1": " zeus",
+        "choice2": " ares",
+        "choice3": " heracles",
+        "choice4": " Poseidon",
+        "answer": 1
+    }
+]
+
